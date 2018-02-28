@@ -1,0 +1,64 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:rowCount="3">
+
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="#CFD8DC"
+        android:gravity="center"
+        android:text="Your points:"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/twPoints"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="#CFD8DC"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:layout_rowSpan="2"
+        android:layout_rowWeight="1"
+        android:background="#B0BEC5"
+        android:gravity="center"
+        android:text="Completed:"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/twDone"
+        android:layout_columnWeight="1"
+        android:layout_rowSpan="2"
+        android:layout_rowWeight="1"
+        android:background="#B0BEC5"
+        android:gravity="center"
+        android:text="none"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btViewImages"
+        android:layout_width="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="#78909C"
+        android:drawableLeft="@drawable/ic_image"
+        android:drawableRight="@drawable/ic_right_arrow"
+        android:text="view uploaded images"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+</GridLayout>

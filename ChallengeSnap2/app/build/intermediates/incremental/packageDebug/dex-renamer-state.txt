@@ -1,0 +1,7 @@
+#Wed Nov 29 16:21:13 EET 2017
+base.0=C\:\\Users\\auryl\\AndroidStudioProjects\\ChallengeSnap2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_39c402f0dc3be0f194f864f0d393f8e67c92b49c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\auryl\\AndroidStudioProjects\\ChallengeSnap2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c4ff7e7de19db1427d078b3dc3441b50eaccec38\\classes.dex
+base.1=C\:\\Users\\auryl\\AndroidStudioProjects\\ChallengeSnap2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c4ff7e7de19db1427d078b3dc3441b50eaccec38
+file.0=C\:\\Users\\auryl\\AndroidStudioProjects\\ChallengeSnap2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_39c402f0dc3be0f194f864f0d393f8e67c92b49c\\classes.dex

@@ -1,0 +1,65 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:rowCount="3"
+    android:background="#505150"
+    >
+
+    <Button
+        android:id="@+id/bChallenges"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="#eaa971"
+        android:gravity="center"
+        android:text="challenges"
+        android:drawableLeft="@drawable/ic_camera"
+        android:drawableRight="@drawable/ic_right_arrow"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/bResults"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="#ff7dbe"
+        android:gravity="center"
+        android:text="results"
+        android:drawableLeft="@drawable/ic_results"
+        android:drawableRight="@drawable/ic_right_arrow"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/bAbout"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="#00FFFF"
+        android:gravity="center"
+        android:text="about"
+        android:drawableLeft="@drawable/ic_about"
+        android:drawableRight="@drawable/ic_right_arrow"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bLogout"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="#98FB98"
+        android:gravity="center"
+        android:text="logout"
+        android:drawableLeft="@drawable/ic_logout"
+        android:drawableRight="@drawable/ic_right_arrow"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</GridLayout>

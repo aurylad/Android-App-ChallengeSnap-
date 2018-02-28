@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\40269a16cefcfb3881e366d6ad32583b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\6c4e7fd47213dc70127cd2b79a584272\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0ff2ee6bbe52c7526de3e55b8a05da7b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e054c77f161b4691bfae34233d1ceaca\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d474ff49051baef9112383de4b5575a2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1024724d9e104dfd92749fe92aa7c392\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8d2a8d7f1e8fb7173c5b4559687af97c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8d0fe6a40da3a94f4ceda1e456c30dca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\edc457aa6f8260789c22b27404613900\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c2522d88714246a48af8fcf0080de51c\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:8:5-51:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\40269a16cefcfb3881e366d6ad32583b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\40269a16cefcfb3881e366d6ad32583b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\6c4e7fd47213dc70127cd2b79a584272\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\6c4e7fd47213dc70127cd2b79a584272\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0ff2ee6bbe52c7526de3e55b8a05da7b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0ff2ee6bbe52c7526de3e55b8a05da7b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e054c77f161b4691bfae34233d1ceaca\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e054c77f161b4691bfae34233d1ceaca\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d474ff49051baef9112383de4b5575a2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d474ff49051baef9112383de4b5575a2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1024724d9e104dfd92749fe92aa7c392\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1024724d9e104dfd92749fe92aa7c392\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8d2a8d7f1e8fb7173c5b4559687af97c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8d2a8d7f1e8fb7173c5b4559687af97c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8d0fe6a40da3a94f4ceda1e456c30dca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8d0fe6a40da3a94f4ceda1e456c30dca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\edc457aa6f8260789c22b27404613900\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\edc457aa6f8260789c22b27404613900\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c2522d88714246a48af8fcf0080de51c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c2522d88714246a48af8fcf0080de51c\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:14:9-40
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.LoginActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:15:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:19:27-74
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.RegisterActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:22:9-24:64
+	android:parentActivityName
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:24:19-62
+	android:label
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:23:19-48
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:22:19-51
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.UserAreaActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:26:9-27:14
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:26:19-51
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.ChallengeActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:29:9-31:61
+	android:parentActivityName
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:31:13-59
+	android:label
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:29:19-52
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.UploadImageActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:33:9-35:62
+	android:parentActivityName
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:35:13-60
+	android:label
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:34:13-41
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:33:19-54
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.ResultActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:37:9-39:61
+	android:parentActivityName
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:39:13-59
+	android:label
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:38:13-41
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:37:19-49
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.RetrieveImageActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:41:9-43:67
+	android:parentActivityName
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:43:19-65
+	android:label
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:42:19-50
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:41:19-56
+activity#kvk.itk.i12_2.dovydas.auryla.challengesnap.AboutActivity
+ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:45:9-49:20
+	android:parentActivityName
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:47:13-59
+	android:label
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:46:13-34
+	android:name
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml:45:19-48
+uses-sdk
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\40269a16cefcfb3881e366d6ad32583b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\40269a16cefcfb3881e366d6ad32583b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\6c4e7fd47213dc70127cd2b79a584272\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\6c4e7fd47213dc70127cd2b79a584272\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0ff2ee6bbe52c7526de3e55b8a05da7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0ff2ee6bbe52c7526de3e55b8a05da7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e054c77f161b4691bfae34233d1ceaca\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e054c77f161b4691bfae34233d1ceaca\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d474ff49051baef9112383de4b5575a2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d474ff49051baef9112383de4b5575a2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1024724d9e104dfd92749fe92aa7c392\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1024724d9e104dfd92749fe92aa7c392\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8d2a8d7f1e8fb7173c5b4559687af97c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8d2a8d7f1e8fb7173c5b4559687af97c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8d0fe6a40da3a94f4ceda1e456c30dca\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8d0fe6a40da3a94f4ceda1e456c30dca\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\edc457aa6f8260789c22b27404613900\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\edc457aa6f8260789c22b27404613900\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c2522d88714246a48af8fcf0080de51c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c2522d88714246a48af8fcf0080de51c\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\auryl\AndroidStudioProjects\ChallengeSnap2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0ff2ee6bbe52c7526de3e55b8a05da7b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0ff2ee6bbe52c7526de3e55b8a05da7b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e054c77f161b4691bfae34233d1ceaca\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e054c77f161b4691bfae34233d1ceaca\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d474ff49051baef9112383de4b5575a2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d474ff49051baef9112383de4b5575a2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1024724d9e104dfd92749fe92aa7c392\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1024724d9e104dfd92749fe92aa7c392\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8d2a8d7f1e8fb7173c5b4559687af97c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8d2a8d7f1e8fb7173c5b4559687af97c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8d0fe6a40da3a94f4ceda1e456c30dca\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8d0fe6a40da3a94f4ceda1e456c30dca\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\edc457aa6f8260789c22b27404613900\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\edc457aa6f8260789c22b27404613900\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c2522d88714246a48af8fcf0080de51c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c2522d88714246a48af8fcf0080de51c\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\auryl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\4ec8102c9d20a4c4f4cbd0908b8bd606\AndroidManifest.xml:26:9-47
